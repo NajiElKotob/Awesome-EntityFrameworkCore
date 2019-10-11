@@ -11,7 +11,9 @@
 * [Entity Framework Core Tutorial](https://www.dotnetcurry.com/entityframework/1347/entity-framework-ef-core-tutorial) - dotnetcurry.com
 * [Entity Framework Core Series](https://code-maze.com/entity-framework-core-series/) - code-maze.com
 * Connection String
-  * [Connection Strings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings)
+  * [Connection Strings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings) - Microsoft
+  * [The Connection Strings Reference](https://www.connectionstrings.com/)
+  * [UDL File](https://blogs.msdn.microsoft.com/farukcelik/2007/12/31/basics-first-udl-test/)
 * Tools Commands
   * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell)
 * Scaffolding (Database First)

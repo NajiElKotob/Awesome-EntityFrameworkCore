@@ -10,6 +10,11 @@
 * [Entity Framework Core](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - entityframeworktutorial.net
 * [Entity Framework Core Tutorial](https://www.dotnetcurry.com/entityframework/1347/entity-framework-ef-core-tutorial) - dotnetcurry.com
 * [Entity Framework Core Series](https://code-maze.com/entity-framework-core-series/) - code-maze.com
+* Installation (PMC)
+  * [Installing Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/get-started/install/)
+    * Install-Package Microsoft.EntityFrameworkCore.SqlServer
+    * Install-Package Microsoft.EntityFrameworkCore.Tools
+    * Install-Package Microsoft.EntityFrameworkCore.Design
 * Connection String
   * [Connection Strings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings) - Microsoft
   * [The Connection Strings Reference](https://www.connectionstrings.com/)

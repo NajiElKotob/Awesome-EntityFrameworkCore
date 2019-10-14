@@ -20,7 +20,7 @@
   * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
   * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
   * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
-  * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet#dotnet-ef-dbcontext-scaffold)
+  * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell#scaffold-dbcontext)
     * Examples:
       * Scaffold-DbContext "Server=(local);Database=AdventureWorks;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t Production.Product, Production.ProductSubcategory
 * ASP.NET MVC

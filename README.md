@@ -41,8 +41,13 @@
 
 ## Advanced
 * Separation of Concerns (SoC)
-  * [.NET Core — Using Entity Framework Core in a separate Project](https://medium.com/oppr/net-core-using-entity-framework-core-in-a-separate-project-e8636f9dc9e5) - Rodrigo Santos (Medium)
-  * [Should you split your ASP.NET MVC project into multiple projects?](https://programmingwithmosh.com/net/should-you-split-your-asp-net-mvc-project-into-multiple-projects/) - Mosh Hamedani
+  * Articles and Resources
+    * [.NET Core — Using Entity Framework Core in a separate Project](https://medium.com/oppr/net-core-using-entity-framework-core-in-a-separate-project-e8636f9dc9e5) - Rodrigo Santos (Medium)
+    * [Should you split your ASP.NET MVC project into multiple projects?](https://programmingwithmosh.com/net/should-you-split-your-asp-net-mvc-project-into-multiple-projects/) - Mosh Hamedani
+  * Sample
+    * Class Lib: Project.Domain (POCO)
+    * Class Lib: Project.Data (Context); Reference Domain; EF SQLServer, EF Tools
+    * Web Application: Project.Web (ASP.NET MVC); Reference Data; EF Design
 * Patterns
   * [Repository and Unit of Work Pattern](https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/) - Wolfgang Ofner
   * [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)

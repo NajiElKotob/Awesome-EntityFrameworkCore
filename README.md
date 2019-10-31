@@ -32,6 +32,8 @@
       * Script-Migration -To Initial
       * Script-Migration -From 0
       * Update-Database -Migration 0 (The number 0 is a special case that means before the first migration and causes all migrations to be reverted.)
+* Validation
+  * [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation)
 * Logging
   * [Logging](https://docs.microsoft.com/en-us/ef/core/miscellaneous/logging?tabs=v3)
 * Migration

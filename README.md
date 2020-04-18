@@ -39,6 +39,7 @@
   * [Logging](https://docs.microsoft.com/en-us/ef/core/miscellaneous/logging?tabs=v3)
 * Migration
   * [Custom Migrations Operations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/operations)
+* [Using HierarchyID in Entity Framework](https://softwarehut.com/blog/tech/hierarchyid-entity-framework) - Paweł Kondzior
 
 ## Database Providers
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)

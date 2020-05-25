@@ -4,6 +4,8 @@
 * [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 * [Microsoft.EntityFrameworkCore (NuGet)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
+## Entity Framework Core 5.0
+* [Announcing Entity Framework Core 5.0 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/) - (April 2020)
 
 ## Tutorials
 * [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - learnentityframeworkcore.com

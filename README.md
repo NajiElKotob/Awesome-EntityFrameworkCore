@@ -43,6 +43,9 @@
   * [Custom Migrations Operations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/operations)
 * [Using HierarchyID in Entity Framework](https://softwarehut.com/blog/tech/hierarchyid-entity-framework) - Paweł Kondzior
 
+## SQLite
+* [SQLite in .NET Core with Entity Framework Core](https://kontext.tech/column/dotnet_framework/275/sqlite-in-net-core-with-entity-framework-core) - kontext.tech
+
 ## Database Providers
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 * [InMemory is designed to be a general purpose database for testing](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) - Microsoft Docs

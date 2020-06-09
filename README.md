@@ -8,14 +8,14 @@
 * [Announcing Entity Framework Core 5.0 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/) - (April 2020)
 
 ## Videos
-### Entity Framework Core
-* [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44)(Phil Japikse, April 2020)
+#### Entity Framework Core
+* [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44) (Phil Japikse, April 2020)
 
-### Entity Framework Core In-Depth
+#### Entity Framework Core In-Depth
 * [Entity Framework Core In-Depth Part 1](https://www.youtube.com/watch?v=Y__n6OOt9IQ) (Phil Japikse, June 2020)
 
 #### Others
-* [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) - Julie Lerman (May 2019)
+* [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) (Julie Lerman, May 2019)
 
 ## Tutorials
 * [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - learnentityframeworkcore.com

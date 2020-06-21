@@ -11,6 +11,7 @@
 #### Entity Framework Core
 * [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44) (Phil Japikse, April 2020)
 * [Entity Framework Core Part 2](https://www.youtube.com/watch?v=ta46892FM6g) 
+* [Entity Framework Core Part 3](https://www.youtube.com/watch?v=KtnkkEPlm44)
 
 #### Entity Framework Core In-Depth
 * [Entity Framework Core In-Depth Part 1](https://www.youtube.com/watch?v=Y__n6OOt9IQ) (Phil Japikse, June 2020)

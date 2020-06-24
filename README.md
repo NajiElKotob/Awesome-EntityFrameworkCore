@@ -13,6 +13,7 @@
 * [Entity Framework Core Part 2](https://www.youtube.com/watch?v=ta46892FM6g) 
 * [Entity Framework Core Part 3](https://www.youtube.com/watch?v=KtnkkEPlm44)
 * [Entity Framework Core Part 4](https://www.youtube.com/watch?v=aX9EBlRM9U8)
+* [Entity Framework Core Part 5](https://www.youtube.com/watch?v=iFHsQuBB6ZU)
 
 
 #### Entity Framework Core In-Depth

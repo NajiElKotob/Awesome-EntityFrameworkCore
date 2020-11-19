@@ -6,7 +6,7 @@
 
 -----
 
-## Entity Framework Core 5.0
+## Entity Framework Core
 
 ### Entity Framework Core 5.0
 * [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c) - Erik Ejlskov Jensen (November 2020)

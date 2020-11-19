@@ -4,11 +4,16 @@
 * [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 * [Microsoft.EntityFrameworkCore (NuGet)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
+-----
+
 ## Entity Framework Core 5.0
+
+### Entity Framework Core 5.0
+* [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c) - Erik Ejlskov Jensen (November 2020)
 * [Entity Framework Core 5.0](https://www.youtube.com/watch?v=BIImyq8qaD4) - (November 2020)
 * [Announcing Entity Framework Core 5.0 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/) - (April 2020)
 
-## Videos
+### Entity Framework Core 3.x
 #### Entity Framework Core
 * [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44) (Phil Japikse, April 2020)
 * [Entity Framework Core Part 2](https://www.youtube.com/watch?v=ta46892FM6g) 
@@ -16,12 +21,11 @@
 * [Entity Framework Core Part 4](https://www.youtube.com/watch?v=aX9EBlRM9U8)
 * [Entity Framework Core Part 5](https://www.youtube.com/watch?v=iFHsQuBB6ZU)
 
-
 #### Entity Framework Core In-Depth
 * [Entity Framework Core In-Depth Part 1](https://www.youtube.com/watch?v=Y__n6OOt9IQ) (Phil Japikse, June 2020)
 
-#### Others
-* [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) (Julie Lerman, May 2019)
+-----
+
 
 ## Tutorials
 * [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - learnentityframeworkcore.com
@@ -71,7 +75,13 @@
 * [ASP.NET Core MVC with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
 * [Razor Pages with Entity Framework Core in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
 
+-----
 
+## Articles
+* [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) (Julie Lerman, May 2019)
+
+
+-----
 ## Advanced
 * Separation of Concerns (SoC)
   * Articles and Resources

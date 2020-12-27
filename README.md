@@ -11,6 +11,7 @@
 ### Entity Framework Core 5.0
 * [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c) - Erik Ejlskov Jensen (November 2020)
 * [Entity Framework Core 5.0](https://www.youtube.com/watch?v=BIImyq8qaD4) - (November 2020)
+* [Migrating to EF Core 5 with Julie Lerman](https://www.youtube.com/watch?v=8yP6NyeycLk) - (October 2020)
 * [Announcing Entity Framework Core 5.0 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/) - (April 2020)
 
 ### Entity Framework Core 3.x

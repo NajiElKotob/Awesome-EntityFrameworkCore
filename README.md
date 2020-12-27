@@ -9,6 +9,8 @@
 ## Entity Framework Core
 
 ### Entity Framework Core 5.0
+* [Modern Entity Framework: A Tour of EF Core 5.0 pt 1](https://www.youtube.com/watch?v=p0UJdoBj-Lc) - (December 2020)
+* [Deep Dive into Many-to-Many: A Tour of EF Core 5.0 pt. 2](https://www.youtube.com/watch?v=b2klBzcALJc)
 * [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c) - Erik Ejlskov Jensen (November 2020)
 * [Entity Framework Core 5.0](https://www.youtube.com/watch?v=BIImyq8qaD4) - (November 2020)
 * [Migrating to EF Core 5 with Julie Lerman](https://www.youtube.com/watch?v=8yP6NyeycLk) - (October 2020)

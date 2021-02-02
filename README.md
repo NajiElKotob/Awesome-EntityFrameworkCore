@@ -29,6 +29,10 @@
 
 -----
 
+## Videos :tv:
+* [Clean Code with Entity Framework Core](https://www.youtube.com/watch?v=LDRxo6wDIE0) - Brendan Richards
+
+-----
 
 ## Tutorials
 * [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - learnentityframeworkcore.com

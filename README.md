@@ -1,4 +1,5 @@
 # Awesome Entity Framework Core
+{Awesome Works in Progress}
 
 ## Official Websites
 * [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
@@ -6,7 +7,9 @@
 
 -----
 
-## Entity Framework Core
+## Videos :tv:
+
+### Entity Framework Core
 
 ### Entity Framework Core 5.0
 * [Modern Entity Framework: A Tour of EF Core 5.0 pt 1](https://www.youtube.com/watch?v=p0UJdoBj-Lc) - (December 2020)
@@ -27,10 +30,9 @@
 #### Entity Framework Core In-Depth
 * [Entity Framework Core In-Depth Part 1](https://www.youtube.com/watch?v=Y__n6OOt9IQ) (Phil Japikse, June 2020)
 
------
-
-## Videos :tv:
+#### Misc
 * [Clean Code with Entity Framework Core](https://www.youtube.com/watch?v=LDRxo6wDIE0) - Brendan Richards
+
 
 -----
 
@@ -39,18 +41,19 @@
 * [Entity Framework Core](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - entityframeworktutorial.net
 * [Entity Framework Core Tutorial](https://www.dotnetcurry.com/entityframework/1347/entity-framework-ef-core-tutorial) - dotnetcurry.com
 * [Entity Framework Core Series](https://code-maze.com/entity-framework-core-series/) - code-maze.com
-* Installation (PMC)
-  * [Installing Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/get-started/install/)
-    * Install-Package Microsoft.EntityFrameworkCore.SqlServer
-    * Install-Package Microsoft.EntityFrameworkCore.Tools
-    * Install-Package Microsoft.EntityFrameworkCore.Design
-* Connection String
+### Installation (PMC)
+* [Installing Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/get-started/install/)
+  * Install-Package Microsoft.EntityFrameworkCore
+  * Install-Package Microsoft.EntityFrameworkCore.SqlServer
+  * Install-Package Microsoft.EntityFrameworkCore.Tools
+  * Install-Package Microsoft.EntityFrameworkCore.Design
+### Connection String
   * [Connection Strings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings) - Microsoft
   * [The Connection Strings Reference](https://www.connectionstrings.com/)
   * [UDL File](https://blogs.msdn.microsoft.com/farukcelik/2007/12/31/basics-first-udl-test/)
-* Tools Commands
+### Tools Commands
   * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell)
-* Scaffolding (Database First)
+### Scaffolding (Database First)
   * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
   * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
   * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
@@ -61,7 +64,7 @@
       * Script-Migration -To Initial
       * Script-Migration -From 0
       * Update-Database -Migration 0 (The number 0 is a special case that means before the first migration and causes all migrations to be reverted.)
-* Validation
+## Validation
   * [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation) - Microsoft Docs
   * [Validation in ASP .NET Core](https://wakeupandcode.com/validation-in-asp-net-core/) - Wake Up And Code!   
 * Logging
@@ -70,13 +73,17 @@
   * [Custom Migrations Operations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/operations)
 * [Using HierarchyID in Entity Framework](https://softwarehut.com/blog/tech/hierarchyid-entity-framework) - Paweł Kondzior
 
-## SQLite
-* [SQLite in .NET Core with Entity Framework Core](https://kontext.tech/column/dotnet_framework/275/sqlite-in-net-core-with-entity-framework-core) - kontext.tech
-* [DB Browser for SQLite](https://sqlitebrowser.org/) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+-----
 
 ## Database Providers
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 * [InMemory is designed to be a general purpose database for testing](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) - Microsoft Docs
+
+### SQLite
+* [SQLite in .NET Core with Entity Framework Core](https://kontext.tech/column/dotnet_framework/275/sqlite-in-net-core-with-entity-framework-core) - kontext.tech
+* [DB Browser for SQLite](https://sqlitebrowser.org/) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+
+-----
 
 ## EF with ASP.NET MVC
 * [ASP.NET Core MVC with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
@@ -86,7 +93,6 @@
 
 ## Articles
 * [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) (Julie Lerman, May 2019)
-
 
 -----
 ## Advanced

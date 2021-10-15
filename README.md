@@ -42,7 +42,7 @@
 * [Entity Framework Core Tutorial](https://www.dotnetcurry.com/entityframework/1347/entity-framework-ef-core-tutorial) - dotnetcurry.com
 * [Entity Framework Core Series](https://code-maze.com/entity-framework-core-series/) - code-maze.com
 ### Installation (PMC)
-* [Installing Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/get-started/install/)
+* [Installing Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/get-started/overview/install)
   * Install-Package Microsoft.EntityFrameworkCore
   * Install-Package Microsoft.EntityFrameworkCore.SqlServer
   * Install-Package Microsoft.EntityFrameworkCore.Tools

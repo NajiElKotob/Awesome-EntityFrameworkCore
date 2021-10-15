@@ -53,17 +53,17 @@
   * [UDL File](https://blogs.msdn.microsoft.com/farukcelik/2007/12/31/basics-first-udl-test/)
 ### Tools Commands
   * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell)
-### Scaffolding (Database First)
-  * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
-  * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
-  * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
-  * [Fluent API or Data Annotations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding#fluent-api-or-data-annotations)
-  * [Entity Framework Core tools reference](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell#scaffold-dbcontext)
     * Examples:
       * Scaffold-DbContext "Server=(local);Database=AdventureWorks;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t Production.Product, Production.ProductSubcategory -DataAnnotations
       * Script-Migration -To Initial
       * Script-Migration -From 0
       * Update-Database -Migration 0 (The number 0 is a special case that means before the first migration and causes all migrations to be reverted.)
+### Scaffolding (Database First)
+  * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
+  * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
+  * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
+  * [Fluent API or Data Annotations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding#fluent-api-or-data-annotations)
+
 ## Validation
   * [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation) - Microsoft Docs
   * [Validation in ASP .NET Core](https://wakeupandcode.com/validation-in-asp-net-core/) - Wake Up And Code!   

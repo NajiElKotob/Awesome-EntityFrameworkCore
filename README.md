@@ -77,11 +77,17 @@
 
 ## Database Providers
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
+
+### InMemory
 * [InMemory is designed to be a general purpose database for testing](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) - Microsoft Docs
+
+### SQL Server
+* [SQL Server Express LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb)
 
 ### SQLite
 * [SQLite in .NET Core with Entity Framework Core](https://kontext.tech/column/dotnet_framework/275/sqlite-in-net-core-with-entity-framework-core) - kontext.tech
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+
 
 -----
 

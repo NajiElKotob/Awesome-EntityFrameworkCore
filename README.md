@@ -66,6 +66,9 @@
   * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
   * [Fluent API or Data Annotations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding#fluent-api-or-data-annotations)
 
+## Data Annotations and Fluent API
+* [Creating and configuring a model](https://docs.microsoft.com/en-us/ef/core/modeling/)
+
 ## Validation
   * [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation) - Microsoft Docs
   * [Validation in ASP .NET Core](https://wakeupandcode.com/validation-in-asp-net-core/) - Wake Up And Code!   

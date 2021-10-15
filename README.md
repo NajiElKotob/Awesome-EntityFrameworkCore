@@ -29,6 +29,7 @@
 
 #### Entity Framework Core In-Depth
 * [Entity Framework Core In-Depth Part 1](https://www.youtube.com/watch?v=Y__n6OOt9IQ) (Phil Japikse, June 2020)
+* [Entity Framework Core In-Depth Part 2](https://www.youtube.com/watch?v=aJZyfio-kz4) 
 
 #### Misc
 * [Clean Code with Entity Framework Core](https://www.youtube.com/watch?v=LDRxo6wDIE0) - Brendan Richards

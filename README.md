@@ -58,6 +58,7 @@
       * Script-Migration -To Initial
       * Script-Migration -From 0
       * Update-Database -Migration 0 (The number 0 is a special case that means before the first migration and causes all migrations to be reverted.)
+   * []()
 ### Scaffolding (Database First)
   * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
   * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
@@ -82,23 +83,25 @@
 * [InMemory is designed to be a general purpose database for testing](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) - Microsoft Docs
 
 ### SQL Server
+* [Microsoft SQL Server EF Core Database Provider](https://docs.microsoft.com/en-us/ef/core/providers/sql-server/?tabs=dotnet-core-cli)
+
+#### SQLLocalDB
 * [SQL Server Express LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb)
+* [SqlLocalDB Utility](https://docs.microsoft.com/en-us/sql/tools/sqllocaldb-utility?view=sql-server-ver15)
 
 ### SQLite
 * [SQLite in .NET Core with Entity Framework Core](https://kontext.tech/column/dotnet_framework/275/sqlite-in-net-core-with-entity-framework-core) - kontext.tech
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 
-
------
-
-## EF with ASP.NET MVC
-* [ASP.NET Core MVC with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
-* [Razor Pages with Entity Framework Core in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
-
 -----
 
 ## Articles
 * [Mapping DDD Domain Models with EF Core 2.1](https://www.youtube.com/watch?v=Z62cbp61Bb8) (Julie Lerman, May 2019)
+
+### EF with ASP.NET MVC
+* [ASP.NET Core MVC with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
+* [Razor Pages with Entity Framework Core in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
+
 
 -----
 ## Advanced

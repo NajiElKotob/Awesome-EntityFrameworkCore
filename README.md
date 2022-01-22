@@ -40,6 +40,9 @@
 
 
 -----
+## Learning
+* [Persist and retrieve relational data with Entity Framework Core](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/)
+
 
 ## Tutorials
 * [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - learnentityframeworkcore.com

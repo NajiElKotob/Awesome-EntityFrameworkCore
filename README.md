@@ -13,8 +13,9 @@
 ### Entity Framework Core 6.0
 * [Make History and Explore the Cosmos, an EF Core 6 Retrospective :tv:](https://www.youtube.com/watch?v=cx6IUURncgk) dotNET | Entity Framework Community Standup
 * [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/)
-
-
+* [Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
+  * dotnet ef migrations bundle or PM> Bundle-Migration
+ 
 ### Entity Framework Core 5.0
 * [Modern Entity Framework: A Tour of EF Core 5.0 pt 1](https://www.youtube.com/watch?v=p0UJdoBj-Lc) - (December 2020)
 * [Deep Dive into Many-to-Many: A Tour of EF Core 5.0 pt. 2](https://www.youtube.com/watch?v=b2klBzcALJc)

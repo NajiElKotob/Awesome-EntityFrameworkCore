@@ -14,6 +14,7 @@
 * [Make History and Explore the Cosmos, an EF Core 6 Retrospective :tv:](https://www.youtube.com/watch?v=cx6IUURncgk) dotNET | Entity Framework Community Standup
 * [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/)
 * [Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
+  * PM> get-help entityframework
   * dotnet ef migrations bundle or PM> Bundle-Migration
  
 ### Entity Framework Core 5.0
@@ -67,7 +68,7 @@
       * Script-Migration -To Initial
       * Script-Migration -From 0
       * Update-Database -Migration 0 (The number 0 is a special case that means before the first migration and causes all migrations to be reverted.)
-   * []()
+
 ### Scaffolding (Database First)
   * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
   * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)

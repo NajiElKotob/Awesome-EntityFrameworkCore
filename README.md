@@ -25,8 +25,7 @@
 * [Migrating to EF Core 5 with Julie Lerman](https://www.youtube.com/watch?v=8yP6NyeycLk) - (October 2020)
 * [Announcing Entity Framework Core 5.0 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/) - (April 2020)
 
-### Entity Framework Core 3.x
-#### Entity Framework Core
+### Entity Framework Core
 * [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44) (Phil Japikse, April 2020)
 * [Entity Framework Core Part 2](https://www.youtube.com/watch?v=ta46892FM6g) 
 * [Entity Framework Core Part 3](https://www.youtube.com/watch?v=KtnkkEPlm44)
@@ -38,6 +37,7 @@
 * [Entity Framework Core In-Depth Part 2](https://www.youtube.com/watch?v=aJZyfio-kz4) 
 
 #### Misc
+* [Let's Learn .NET: Data](https://www.youtube.com/watch?v=wI5PzVWJUYY) - dotNET
 * [Clean Code with Entity Framework Core](https://www.youtube.com/watch?v=LDRxo6wDIE0) - Brendan Richards
 
 

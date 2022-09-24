@@ -73,6 +73,7 @@
   * [Entity Framework Core Database First Example (YouTube)](https://www.youtube.com/watch?v=iX-fb1ddfjM) - Programming
   * [Reverse Engineering](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding)
   * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database) 
+  * [Entity Framework Core Scaffold-DbContext in separate Data and Entity Projects](https://technavi.medium.com/entity-framework-core-scaffold-dbcontext-in-separate-data-and-entity-projects-2d1016f7cd95)
   * [Fluent API or Data Annotations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding#fluent-api-or-data-annotations)
 
 ## Data Annotations and Fluent API

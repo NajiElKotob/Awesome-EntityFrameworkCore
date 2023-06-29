@@ -10,6 +10,8 @@
 ## Videos :tv:
 
 ### Entity Framework Core
+* [Entity Framework Crash Course: Point of Sale Project](https://www.youtube.com/playlist?list=PL4G0MUH8YWiDcv8EUWTbDxDlkSndfh-T0) - The C# Academy
+  
 ### Entity Framework Core 6.0
 * [Make History and Explore the Cosmos, an EF Core 6 Retrospective :tv:](https://www.youtube.com/watch?v=cx6IUURncgk) dotNET | Entity Framework Community Standup
 * [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/)
